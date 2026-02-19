@@ -1,4 +1,4 @@
-#Feature Selection: Filter, Wrapper, and Exhaustive Methods
+## Feature Selection: Filter, Wrapper, and Exhaustive Methods
 
 Feature selection is the process of isolating the most relevant input variables for your model. It reduces computational cost, improves model interpretability, and mitigates overfitting.
 
